@@ -65,6 +65,6 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("io.insert-koin:koin-android:3.2.2")
-    implementation("com.github.Stas-8888:Library:1.0")
+//    implementation("com.github.Stas-8888:Library:1.0")
 //    implementation(libs.kotlinx.coroutines.core)
 }

@@ -48,9 +48,9 @@ publishing {
         register<MavenPublication>("release") {
             afterEvaluate {
                 from(components["release"])
-                groupId = "com.github.Stas-8888"
-                artifactId = "test-library"
-                version = "1.0"
+//                groupId = "com.github.Stas-8888"
+//                artifactId = "test-library"
+//                version = "1.0"
             }
         }
     }
