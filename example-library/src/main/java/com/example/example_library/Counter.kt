@@ -1,6 +1,6 @@
 package com.example.example_library
 
-object Counter {
+class TTT {
     fun count(number: Int): Int {
         return number + 1
     }
